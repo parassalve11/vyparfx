@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/refer-a-friend/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 3178,
+    "heading": "Take advantage of our\nInvite-A-Friend\nProgram",
+    "missingImages": []
+  },
+  {
+    "route": "/refer-a-friend/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 4850,
+    "heading": "Take advantage of our\nInvite-A-Friend\nProgram",
+    "missingImages": []
+  },
+  {
+    "route": "/refer-a-friend/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 3414,
+    "heading": "Take advantage of our\nInvite-A-Friend\nProgram",
+    "missingImages": []
+  },
+  {
+    "route": "/refer-a-friend/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 3178,
+    "heading": "Take advantage of our\nInvite-A-Friend\nProgram",
+    "missingImages": []
+  }
+]

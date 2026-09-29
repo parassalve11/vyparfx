@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/affiliate/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4779,
+    "heading": "Lets Grow Together",
+    "missingImages": []
+  },
+  {
+    "route": "/affiliate/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 6821,
+    "heading": "Lets Grow Together",
+    "missingImages": []
+  },
+  {
+    "route": "/affiliate/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 5301,
+    "heading": "Lets Grow Together",
+    "missingImages": []
+  },
+  {
+    "route": "/affiliate/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4779,
+    "heading": "Lets Grow Together",
+    "missingImages": []
+  }
+]

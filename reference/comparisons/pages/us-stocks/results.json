@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/us-stocks/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4608,
+    "heading": "Trade in the US Markets!",
+    "missingImages": []
+  },
+  {
+    "route": "/us-stocks/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5685,
+    "heading": "Trade in the US Markets!",
+    "missingImages": []
+  },
+  {
+    "route": "/us-stocks/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 4795,
+    "heading": "Trade in the US Markets!",
+    "missingImages": []
+  },
+  {
+    "route": "/us-stocks/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4608,
+    "heading": "Trade in the US Markets!",
+    "missingImages": []
+  }
+]

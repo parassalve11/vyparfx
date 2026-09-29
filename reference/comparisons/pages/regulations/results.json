@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/regulations/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 3129,
+    "heading": "Regulations",
+    "missingImages": []
+  },
+  {
+    "route": "/regulations/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 4255,
+    "heading": "Regulations",
+    "missingImages": []
+  },
+  {
+    "route": "/regulations/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 3311,
+    "heading": "Regulations",
+    "missingImages": []
+  },
+  {
+    "route": "/regulations/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 3129,
+    "heading": "Regulations",
+    "missingImages": []
+  }
+]

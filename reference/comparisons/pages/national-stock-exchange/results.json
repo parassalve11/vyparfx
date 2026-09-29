@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/national-stock-exchange/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4873,
+    "heading": "What is NSE",
+    "missingImages": []
+  },
+  {
+    "route": "/national-stock-exchange/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 6247,
+    "heading": "What is NSE",
+    "missingImages": []
+  },
+  {
+    "route": "/national-stock-exchange/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 5154,
+    "heading": "What is NSE",
+    "missingImages": []
+  },
+  {
+    "route": "/national-stock-exchange/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4873,
+    "heading": "What is NSE",
+    "missingImages": []
+  }
+]

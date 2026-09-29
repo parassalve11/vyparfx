@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/comex/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4667,
+    "heading": "What is COMEX",
+    "missingImages": []
+  },
+  {
+    "route": "/comex/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 6032,
+    "heading": "What is COMEX",
+    "missingImages": []
+  },
+  {
+    "route": "/comex/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 4847,
+    "heading": "What is COMEX",
+    "missingImages": []
+  },
+  {
+    "route": "/comex/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4667,
+    "heading": "What is COMEX",
+    "missingImages": []
+  }
+]

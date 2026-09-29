@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/terms-and-condition/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 3521,
+    "heading": "Terms & Conditions",
+    "missingImages": []
+  },
+  {
+    "route": "/terms-and-condition/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5283,
+    "heading": "Terms & Conditions",
+    "missingImages": []
+  },
+  {
+    "route": "/terms-and-condition/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 4096,
+    "heading": "Terms & Conditions",
+    "missingImages": []
+  },
+  {
+    "route": "/terms-and-condition/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 3521,
+    "heading": "Terms & Conditions",
+    "missingImages": []
+  }
+]

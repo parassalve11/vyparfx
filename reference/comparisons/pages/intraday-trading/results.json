@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/intraday-trading/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4302,
+    "heading": "Intraday Trading",
+    "missingImages": []
+  },
+  {
+    "route": "/intraday-trading/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 6472,
+    "heading": "Intraday Trading",
+    "missingImages": []
+  },
+  {
+    "route": "/intraday-trading/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 4786,
+    "heading": "Intraday Trading",
+    "missingImages": []
+  },
+  {
+    "route": "/intraday-trading/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4302,
+    "heading": "Intraday Trading",
+    "missingImages": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/blog/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 3115,
+    "heading": "Learn about Trading\nNSE, MCX, Forex & more.",
+    "missingImages": []
+  },
+  {
+    "route": "/blog/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 4815,
+    "heading": "Learn about Trading\nNSE, MCX, Forex & more.",
+    "missingImages": []
+  },
+  {
+    "route": "/blog/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 3170,
+    "heading": "Learn about Trading\nNSE, MCX, Forex & more.",
+    "missingImages": []
+  },
+  {
+    "route": "/blog/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 3115,
+    "heading": "Learn about Trading\nNSE, MCX, Forex & more.",
+    "missingImages": []
+  }
+]

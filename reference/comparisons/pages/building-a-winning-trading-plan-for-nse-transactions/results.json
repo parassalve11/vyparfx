@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/building-a-winning-trading-plan-for-nse-transactions/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 5107,
+    "heading": "Building a Winning Trading Plan for NSE Transactions",
+    "missingImages": []
+  },
+  {
+    "route": "/building-a-winning-trading-plan-for-nse-transactions/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 7848,
+    "heading": "Building a Winning Trading Plan for NSE Transactions",
+    "missingImages": []
+  },
+  {
+    "route": "/building-a-winning-trading-plan-for-nse-transactions/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 6239,
+    "heading": "Building a Winning Trading Plan for NSE Transactions",
+    "missingImages": []
+  },
+  {
+    "route": "/building-a-winning-trading-plan-for-nse-transactions/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 5107,
+    "heading": "Building a Winning Trading Plan for NSE Transactions",
+    "missingImages": []
+  }
+]

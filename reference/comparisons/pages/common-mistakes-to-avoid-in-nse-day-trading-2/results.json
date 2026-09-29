@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/common-mistakes-to-avoid-in-nse-day-trading-2/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 7180,
+    "heading": "Common Mistakes to Avoid in NSE Day Trading",
+    "missingImages": []
+  },
+  {
+    "route": "/common-mistakes-to-avoid-in-nse-day-trading-2/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 9729,
+    "heading": "Common Mistakes to Avoid in NSE Day Trading",
+    "missingImages": []
+  },
+  {
+    "route": "/common-mistakes-to-avoid-in-nse-day-trading-2/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 8163,
+    "heading": "Common Mistakes to Avoid in NSE Day Trading",
+    "missingImages": []
+  },
+  {
+    "route": "/common-mistakes-to-avoid-in-nse-day-trading-2/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 7180,
+    "heading": "Common Mistakes to Avoid in NSE Day Trading",
+    "missingImages": []
+  }
+]

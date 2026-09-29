@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/indian-commodity/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4666,
+    "heading": "What is Indian Commodity",
+    "missingImages": []
+  },
+  {
+    "route": "/indian-commodity/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 6023,
+    "heading": "What is Indian Commodity",
+    "missingImages": []
+  },
+  {
+    "route": "/indian-commodity/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 4899,
+    "heading": "What is Indian Commodity",
+    "missingImages": []
+  },
+  {
+    "route": "/indian-commodity/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4666,
+    "heading": "What is Indian Commodity",
+    "missingImages": []
+  }
+]

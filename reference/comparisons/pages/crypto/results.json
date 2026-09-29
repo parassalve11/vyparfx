@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/crypto/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4667,
+    "heading": "Trade in Cryptos",
+    "missingImages": []
+  },
+  {
+    "route": "/crypto/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5946,
+    "heading": "Trade in Cryptos",
+    "missingImages": []
+  },
+  {
+    "route": "/crypto/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 4847,
+    "heading": "Trade in Cryptos",
+    "missingImages": []
+  },
+  {
+    "route": "/crypto/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4667,
+    "heading": "Trade in Cryptos",
+    "missingImages": []
+  }
+]

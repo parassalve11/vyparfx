@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/top-options-trading-mistakes-to-avoid/",
+    "size": "desktop",
+    "status": 200,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 5055,
+    "heading": "Top Options Trading Mistakes to Avoid",
+    "missingImages": []
+  },
+  {
+    "route": "/top-options-trading-mistakes-to-avoid/",
+    "size": "mobile",
+    "status": 200,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 7100,
+    "heading": "Top Options Trading Mistakes to Avoid",
+    "missingImages": []
+  },
+  {
+    "route": "/top-options-trading-mistakes-to-avoid/",
+    "size": "tablet",
+    "status": 200,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 5725,
+    "heading": "Top Options Trading Mistakes to Avoid",
+    "missingImages": []
+  },
+  {
+    "route": "/top-options-trading-mistakes-to-avoid/",
+    "size": "desktop-large",
+    "status": 200,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 5055,
+    "heading": "Top Options Trading Mistakes to Avoid",
+    "missingImages": []
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "width": 768,
+  "scrollWidth": 768,
+  "height": 10741,
+  "sections": [
+    {
+      "name": "Zero Brokeragein All Markets",
+      "y": 114,
+      "h": 750
+    },
+    {
+      "y": 864,
+      "h": 210
+    },
+    {
+      "name": "Trade All Exchanges inone Platform",
+      "y": 1074,
+      "h": 2110
+    },
+    {
+      "name": "WhyChoose TradeKaro?",
+      "y": 3184,
+      "h": 1392
+    },
+    {
+      "name": "A Superior Trading Platform",
+      "y": 4636,
+      "h": 418
+    },
+    {
+      "y": 5133,
+      "h": 203
+    },
+    {
+      "name": "Our Influencers",
+      "y": 5336,
+      "h": 531
+    },
+    {
+      "name": "Testimonials",
+      "y": 5868,
+      "h": 992
+    },
+    {
+      "name": "Frequently AskedQuestions",
+      "y": 6860,
+      "h": 960
+    },
+    {
+      "name": "Quick Guides",
+      "y": 7820,
+      "h": 741
+    },
+    {
+      "name": "Open an Account inless than 10 sec",
+      "y": 8560,
+      "h": 543
+    },
+    {
+      "name": "Start Trading in3 simple steps",
+      "y": 9103,
+      "h": 738
+    }
+  ],
+  "missingImages": []
+}
