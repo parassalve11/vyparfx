@@ -1791,5 +1791,14 @@
   },
   "https://tradekaro.com/#inline-icon-11": {
     "src": "/reference-assets/icons/public-icon-11.svg"
+  },
+  "vyaparfx-logo.png": {
+    "src": "/brand/vyaparfx-logo.png"
+  },
+  "vyaparfx-logo-light.png": {
+    "src": "/brand/vyaparfx-logo-light.png"
+  },
+  "vyaparfx-mark.png": {
+    "src": "/brand/vyaparfx-mark.png"
   }
 }
