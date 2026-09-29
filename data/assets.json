@@ -1800,5 +1800,20 @@
   },
   "vyaparfx-mark.png": {
     "src": "/brand/vyaparfx-mark.png"
+  },
+  "vyaparfx-hanging-mark.svg": {
+    "src": "/images/landing/vyaparfx-hanging-mark.svg",
+    "width": 47,
+    "height": 231
+  },
+  "vyaparfx-hero.png": {
+    "src": "/images/landing/vyaparfx-hero.png",
+    "width": 1336,
+    "height": 1177
+  },
+  "vyaparfx-account-phones.png": {
+    "src": "/images/landing/vyaparfx-account-phones.png",
+    "width": 1225,
+    "height": 1284
   }
 }

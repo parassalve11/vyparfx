@@ -69,6 +69,7 @@
 .header-inner>a{flex-shrink:0}.logo,.drawer-logo,.footer-logo{height:auto}.social-links svg{display:block;flex-shrink:0}.contact-emblem{padding:8px;background:#fff;border-radius:50%}
 
 /* Desktop hero proportions from the supplied screenshot. */
+@media(max-width:767px){.hero-visual{aspect-ratio:1336/1177;background-size:contain}}
 @media(min-width:1025px){
  .home-hero{padding-bottom:0}
  .hero-gradient{top:0;height:clamp(160px,12vw,230px);clip-path:polygon(0 0,100% 0,100% 100%,0 39%)}
